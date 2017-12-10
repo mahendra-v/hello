@@ -1,2 +1,2 @@
 # hello
-Hello world program to check, checkouts, reviews
+Hello a Learning Bot
